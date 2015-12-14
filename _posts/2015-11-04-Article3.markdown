@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "\"à partir de la recherche sur mobile, Google favorise-t-il les sites mobiles ?\""
+date:   2015-11-04 13:59:39 +0100
+categories: SEO
+author: Nicolas Darbier
+---
+## Enoncé, clarification et interprétation de la question de départ 
+
+## Bibliographie : qu'est-ce qui a été écrit sur le sujet ? Synthèse
+
+## Problématique : revenir sur la question de départ en la formulant précisément, en précisant ses enjeux etc..
+
+## Hypothèse testées
+
+## Protocole de test mis en place
+
+## Résultats obtenus
+
+## Conclusion et pistes de recherches additionnelles
