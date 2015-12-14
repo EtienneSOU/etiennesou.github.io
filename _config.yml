@@ -18,12 +18,3 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
-ftp_host: 'seo-positif.fr'
-ftp_dir: '/web/site/root'
-ftp_passive: false
-
-# optional
-#ftp_port: 21                  # default 21
-ftp_username: 'seopositcb'     # default read from stdin
-ftp_password: '29TXsZ4jhDr9' # default read from stdin
-ftp_secure: true              # default false
