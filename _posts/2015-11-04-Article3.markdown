@@ -31,6 +31,7 @@ Une autre démarche consiste à créer deux sites au contenu similaire, l’un a
 
 ## Résultats obtenus
 Il est donc aujourd’hui, comme présenté en introduction, indispensable pour un site de proposer un contenu adapté aux utilisateurs mobiles. Ce sujet est vaste mais nous pouvons l’évoquer simplement en présentant trois solutions différentes pour optimiser le site selon l’appareil utilisé :
+
 * Le __Responsive Design__, solution recommandée par Google notamment, il permet d’afficher le même code HTML à la même URL tout en modulant l’affichage à l’appareil utilisé
 
 * Le __Dynamic Serving__, génère un code HTML différent en utilisant la même URL grâce aux informations dont dispose le serveur au sujet du navigateur du client
