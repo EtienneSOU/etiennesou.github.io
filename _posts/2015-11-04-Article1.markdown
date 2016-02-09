@@ -44,6 +44,7 @@ La première étant de poster un lien de notre site web sur un site d’un ami e
 
 ![Test1](https://hubic.com/home/browser/thumb/?uri=default/Images/brice.png&crop=no&size=1440x744 "Test1")
 
+<div style="text-align:center"><img alt="test1" src ="https://hubic.com/home/browser/thumb/?uri=default/Images/brice.png&crop=no&size=1440x744" /></div>
 
 La deuxième démarche est de poster le lien de notre site web sur le site www.reddit.com qui utilise une balise nofollow pour les liens ayant peu de popularité et ainsi étudier l’évolution de notre page ranking et l’évolution de notre traffic.
 
