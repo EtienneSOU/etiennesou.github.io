@@ -6,9 +6,9 @@ categories: SEO
 author: Félix Senepin
 ---
 
-<strong>Lorsque l’on met un site web en ligne ou que l’on crée de nouvelles pages sur un site existant, il est important de se faire référencer afin d’être visibles de internautes via les résultats des moteurs de recherche. 
+<strong>Lorsque l’on met un site web en ligne ou que l’on crée de nouvelles pages sur un site existant, il est important de se faire référencer afin d’être visibles de internautes via les résultats des moteurs de recherche.</strong 
 
-Or ces derniers, comme Google & Bing, utilisent des robots indexeurs, logiciels qui parcours pages et sites internet afin de les analyser et de juger de leur pertinence. Mais comment ce processus d’indexation se déroule-t-il?</strong>
+<strong>Or ces derniers, comme Google & Bing, utilisent des robots indexeurs, logiciels qui parcours pages et sites internet afin de les analyser et de juger de leur pertinence. Mais comment ce processus d’indexation se déroule-t-il?</strong>
 
 ## Fonctionnement des robots indexeurs
 Les robots indexeurs, aussi appelés robots d’indexations ou web crawlers dans la langue de Shakespeare, permettent aux moteurs de recherche d’indexer l’ensemble des sites et pages web présents sur internet. 
