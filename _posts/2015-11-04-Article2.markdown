@@ -10,7 +10,7 @@ author: Félix Senepin
 
 <strong>Or ces derniers, comme Google & Bing, utilisent des robots indexeurs, logiciels qui parcours pages et sites internet afin de les analyser et de juger de leur pertinence. Mais comment ce processus d’indexation se déroule-t-il?</strong> <br/><br/>
 
-<img alt="Robots-android" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Android_robot_skateboarding.svg" width="100%"><br/><br/>
+<img alt="SEO-robots-android" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Android_robot_skateboarding.svg" width="100%"><br/><br/>
 
 ## Fonctionnement des robots indexeurs
 Les robots indexeurs, aussi appelés robots d’indexations ou web crawlers dans la langue de Shakespeare, permettent aux moteurs de recherche d’indexer l’ensemble des sites et pages web présents sur internet. 
@@ -22,7 +22,7 @@ Pour se faire, et afin d’obtenir des résultats pertinents, ils visitent ces s
 
 Mais si le robot parcours les pages web en suivant des liens, comment faire en sorte qu’il arrive sur votre site web en premier lieu? <br/><br/>
 
-<img alt="oeil" src="https://images.unsplash.com/photo-1414775838024-666765beb5d9?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=9baeedb83968302458db37bafbbd0b06" width="100%"><br/><br/>
+<img alt="indexeurs-oeil" src="https://images.unsplash.com/photo-1414775838024-666765beb5d9?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=9baeedb83968302458db37bafbbd0b06" width="100%"><br/><br/>
 
 ## Se rendre visible des robots indexeurs
 Il existe plusieurs manières pour se rendre visible des robots et ainsi entamer la longue route vers un référencement optimal. Selon les dispositifs mis en place, vous serez indexé plus ou moins rapidement.
@@ -54,7 +54,7 @@ Attention tout de même, les robots visite plus ou moins les sites selon leur pe
 
 La dernière solution est certainement la meilleure et la plus simple si votre site est finalisé lorsque vous décidez de le mettre en ligne. En effet, certains moteurs de recherche comme Google & Bing vous permettent d’ajouter des modules à votre site internet qui le rendent alors visible de leurs robots indexeurs. <br/><br/>
 
-<img alt="loupe" src="https://farm6.staticflickr.com/5512/14253849274_62bcbdc283_o_d.png" width="100%"><br/><br/>
+<img alt="comportement-loupe" src="https://farm6.staticflickr.com/5512/14253849274_62bcbdc283_o_d.png" width="100%"><br/><br/>
 
 ## Conclusion
 
@@ -66,7 +66,7 @@ La méthode la plus efficace pour se faire est donc dans un premier temps de se 
 
 Mais, encore une fois, être indexé ne suffit pas pour être facilement accessible des usagers d’internet. Il faut travailler sur l’amélioration son référencement, un travail de longue haleine et qu’il faut suivre en continue, les règles de référencement des différents moteurs de recherche évoluant constamment. <br/><br/>
 
-<img alt="bureau" src="https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?crop=entropy&dpr=2&fit=crop&fm=jpg&h=975&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1700" width="100%"><br/><br/>
+<img alt="bureau-page-site" src="https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?crop=entropy&dpr=2&fit=crop&fm=jpg&h=975&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1700" width="100%"><br/><br/>
 
 ## Bon à savoir
 
