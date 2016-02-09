@@ -16,12 +16,12 @@ Aussi, pour faciliter cette évolution des mentalités et des enjeux autour du m
 
 <figure>
   <img src="http://image.noelshack.com/fichiers/2016/06/1455045926-article3-image1.png" alt="Exemple de test mobile-friendly pour notre    blog seo-positif.fr - 1"/>
-  <figcaption>Fig1. - Exemple de test mobile-friendly pour notre blog seo-positif.fr</figcaption>
+  <figcaption>Fig. 1 - Exemple de test mobile-friendly pour notre blog seo-positif.fr</figcaption>
 </figure>
 
 <figure>
   <img src="http://image.noelshack.com/fichiers/2016/06/1455045926-article3-image2.png" alt="Exemple de test mobile-friendly pour notre    blog seo-positif.fr - 2" style="height: 350px;"/>
-  <figcaption>Fig2. - Exemple d'outil de test mobile-friendly n°2</figcaption>
+  <figcaption>Fig. 2 - Exemple d'outil de test mobile-friendly n°2</figcaption>
 </figure>
 
 La première étape de cette prise en considération de l’importance du mobile par Google consistait à faire émerger du contenu provenant d’applications dans les résultats de recherche et à rendre plus simple pour les utilisateurs de trouver des sites adaptés à un affichage mobile dans le but de s’adapter aux nouveaux modes de consommation.
