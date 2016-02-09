@@ -22,7 +22,7 @@ Pour se faire, et afin d’obtenir des résultats pertinents, ils visitent ces s
 
 Mais si le robot parcours les pages web en suivant des liens, comment faire en sorte qu’il arrive sur votre site web en premier lieu? <br/><br/>
 
-<img src="https://images.unsplash.com/photo-1414775838024-666765beb5d9?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=9baeedb83968302458db37bafbbd0b06" width="80%">
+<img src="https://images.unsplash.com/photo-1414775838024-666765beb5d9?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=9baeedb83968302458db37bafbbd0b06" width="100%">
 
 ## Se rendre visible des robots indexeurs
 Il existe plusieurs manières pour se rendre visible des robots et ainsi entamer la longue route vers un référencement optimal. Selon les dispositifs mis en place, vous serez indexé plus ou moins rapidement.
@@ -54,7 +54,7 @@ Attention tout de même, les robots visite plus ou moins les sites selon leur pe
 
 La dernière solution est certainement la meilleure et la plus simple si votre site est finalisé lorsque vous décidez de le mettre en ligne. En effet, certains moteurs de recherche comme Google & Bing vous permettent d’ajouter des modules à votre site internet qui le rendent alors visible de leurs robots indexeurs. <br/><br/>
 
-<img src="https://farm6.staticflickr.com/5512/14253849274_62bcbdc283_o_d.png" width="80%">
+<img src="https://farm6.staticflickr.com/5512/14253849274_62bcbdc283_o_d.png" width="100%">
 
 ## Conclusion
 
@@ -66,7 +66,7 @@ La méthode la plus efficace pour se faire est donc dans un premier temps de se 
 
 Mais, encore une fois, être indexé ne suffit pas pour être facilement accessible des usagers d’internet. Il faut travailler sur l’amélioration son référencement, un travail de longue haleine et qu’il faut suivre en continue, les règles de référencement des différents moteurs de recherche évoluant constamment. <br/><br/>
 
-<img src="https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?crop=entropy&dpr=2&fit=crop&fm=jpg&h=975&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1700" width="80%">
+<img src="https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?crop=entropy&dpr=2&fit=crop&fm=jpg&h=975&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1700" width="100%">
 
 ## Bon à savoir
 
