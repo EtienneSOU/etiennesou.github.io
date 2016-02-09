@@ -44,28 +44,34 @@ La première étant de poster un lien de notre site web sur un site d’un ami e
 
 <div style="text-align:center"><img alt="test1-nofollow" src ="https://hubic.com/home/browser/thumb/?uri=default/Images/brice.png&crop=no&size=1440x744" /></div>
 
+
 La deuxième démarche est de poster le lien de notre site web sur le site www.reddit.com qui utilise une balise nofollow pour les liens ayant peu de popularité et ainsi étudier l’évolution de notre page ranking et l’évolution de notre traffic.
 
 <div style="text-align:center"><img alt="test2-nofollow" src ="https://hubic.com/home/browser/thumb/?uri=default/Images/reddit.png&crop=no&size=1440x744" /></div>
+
 
 ## Résultats des tests
 
 Premier test: Après avoir mis en place le lien nofollow sur le site web de notre ami, nous avons observé le nombre de pages pointant notre site web selon google. Nous avions que les pages de notre site web (La page d’accueil, les articles et une pages « A propos »)
 
+
 <div style="text-align:center"><img alt="resultat1-nofollow" src ="https://hubic.com/home/browser/thumb/?uri=default/Images/links.png&crop=no&size=1440x744" /></div>
+
 
 Ensuite nous avons regardé notre page ranking qui n’a malheureusement pas évolué.
 Quant à Bing, suite à un problème avec notre site web nous ne sommes plus référencé.
 
 Résultat du deuxième test: Nous avons regardé avec Google Analytics l’affluence de notre site web une fois celui-ci posté sur le site reddit.
 
+
 <div style="text-align:center"><img alt="resultat2-nofollow" src ="https://hubic.com/home/browser/thumb/?uri=default/Images/traffic.png&crop=no&size=1440x744" /></div>
+
 
 On peut voir que le traffic du site a légèrement augmenté puis s’est très vite estompé une fois notre redirection reddit « downvoté »
 De plus, comme pour le test précédent notre « page ranking » n’a pas évolué.
 
-## Que pouvons nous donc conclure sur l’interprétation du nofollow selon Google et Bing ?
 
+## Que pouvons nous donc conclure sur l’interprétation du nofollow selon Google et Bing ?
 
 On peut voir que Google semble respecter ses dires quant à leur traitement de cette balise, les liens n’ont pas été suivis et le « page ranking » de notre page n’a pas évolué. En revanche, en réalisant le deuxième test nous avons pu observer que notre traffic a légèrement augmenté une fois notre lien posté sur un site populaire. En revanche cela n’a pas fait évoluer notre site dans le référencement mais joue certainement lorsque un nombre de vues est généré sur une plus grande échelle.
 
