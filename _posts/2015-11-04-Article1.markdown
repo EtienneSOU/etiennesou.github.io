@@ -24,9 +24,9 @@ Avec l’arrivée du web 2.0, les internautes peuvent maintenant réagir sur des
 C’est donc en 2005 que Google a introduit la balise nofollow dans le but de lutter contre les spams. 
 </p>
 # Comment est écrite une balise nofollow ?
-
+<code>
 <a href='http://www.exemple.com/' rel='nofollow'>lien de la page</a>
-
+</code>
 ## Déclaration de google à propos de la balise nofollow
 <p>
 « Comment les liens non suivis sont-ils gérés par Google ?
