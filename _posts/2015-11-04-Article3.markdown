@@ -50,4 +50,5 @@ Il est donc aujourd’hui, comme présenté en introduction, indispensable pour 
 * https://developers.google.com/webmasters/
 * https://moz.com/learn/seo/mobile-optimization/
 * https://varvy.com/mobile/
+* http://mattkersley.com/responsive/
 
