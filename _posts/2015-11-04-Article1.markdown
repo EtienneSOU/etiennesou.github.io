@@ -42,26 +42,24 @@ Pour réaliser cette étude nous avons voulu tester de deux manières différent
 
 La première étant de poster un lien de notre site web sur un site d’un ami en utilisant la balise nofollow et d’étudier l’évolution de notre page ranking.
 
-![Test1](https://hubic.com/home/browser/thumb/?uri=default/Images/brice.png&crop=no&size=1440x744 "Test1")
-
-<div style="text-align:center"><img alt="test1" src ="https://hubic.com/home/browser/thumb/?uri=default/Images/brice.png&crop=no&size=1440x744" /></div>
+<div style="text-align:center"><img alt="test1-nofollow" src ="https://hubic.com/home/browser/thumb/?uri=default/Images/brice.png&crop=no&size=1440x744" /></div>
 
 La deuxième démarche est de poster le lien de notre site web sur le site www.reddit.com qui utilise une balise nofollow pour les liens ayant peu de popularité et ainsi étudier l’évolution de notre page ranking et l’évolution de notre traffic.
 
-![Test2](https://hubic.com/home/browser/thumb/?uri=default/Images/reddit.png&crop=no&size=1440x744 "Test2")
+<div style="text-align:center"><img alt="test2-nofollow" src ="https://hubic.com/home/browser/thumb/?uri=default/Images/reddit.png&crop=no&size=1440x744" /></div>
 
 ## Résultats des tests
 
 Premier test: Après avoir mis en place le lien nofollow sur le site web de notre ami, nous avons observé le nombre de pages pointant notre site web selon google. Nous avions que les pages de notre site web (La page d’accueil, les articles et une pages « A propos »)
 
-![Resultat1](https://hubic.com/home/browser/thumb/?uri=default/Images/links.png&crop=no&size=1440x744 "Resultat1")
+<div style="text-align:center"><img alt="resultat1-nofollow" src ="https://hubic.com/home/browser/thumb/?uri=default/Images/links.png&crop=no&size=1440x744" /></div>
 
 Ensuite nous avons regardé notre page ranking qui n’a malheureusement pas évolué.
 Quant à Bing, suite à un problème avec notre site web nous ne sommes plus référencé.
 
 Résultat du deuxième test: Nous avons regardé avec Google Analytics l’affluence de notre site web une fois celui-ci posté sur le site reddit.
 
-![Resultat2](https://hubic.com/home/browser/thumb/?uri=default/Images/traffic.png&crop=no&size=1440x744 "Resultat2")
+<div style="text-align:center"><img alt="resultat2-nofollow" src ="https://hubic.com/home/browser/thumb/?uri=default/Images/traffic.png&crop=no&size=1440x744" /></div>
 
 On peut voir que le traffic du site a légèrement augmenté puis s’est très vite estompé une fois notre redirection reddit « downvoté »
 De plus, comme pour le test précédent notre « page ranking » n’a pas évolué.
