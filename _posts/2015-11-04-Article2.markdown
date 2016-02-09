@@ -10,7 +10,7 @@ author: Félix Senepin
 
 <strong>Or ces derniers, comme Google & Bing, utilisent des robots indexeurs, logiciels qui parcours pages et sites internet afin de les analyser et de juger de leur pertinence. Mais comment ce processus d’indexation se déroule-t-il?</strong>
 
-<br/>
+
 ## Fonctionnement des robots indexeurs
 Les robots indexeurs, aussi appelés robots d’indexations ou web crawlers dans la langue de Shakespeare, permettent aux moteurs de recherche d’indexer l’ensemble des sites et pages web présents sur internet. 
 
@@ -21,7 +21,7 @@ Pour se faire, et afin d’obtenir des résultats pertinents, ils visitent ces s
 
 Mais si le robot parcours les pages web en suivant des liens, comment faire en sorte qu’il arrive sur votre site web en premier lieu?
 
-<br/>
+
 ## Se rendre visible des robots indexeurs
 Il existe plusieurs manières pour se rendre visible des robots et ainsi entamer la longue route vers un référencement optimal. Selon les dispositifs mis en place, vous serez indexé plus ou moins rapidement.
 
@@ -52,7 +52,7 @@ Attention tout de même, les robots visite plus ou moins les sites selon leur pe
 
 La dernière solution est certainement la meilleure et la plus simple si votre site est finalisé lorsque vous décidez de le mettre en ligne. En effet, certains moteurs de recherche comme Google & Bing vous permettent d’ajouter des modules à votre site internet qui le rendent alors visible de leurs robots indexeurs.
 
-<br/>
+
 ## Conclusion
 
 Si il est intéressant de mettre un site en ligne pour traiter divers sujets ou réponde à un besoin, ce dernier ne sera que très peu utile s’il n’est visible que des internautes qui disposent de votre URL. Or aujourd’hui, la majorité des accès à un site passent par les moteurs de recherches, et c’est encore plus le cas pour un site qui n’est pas encore connu.
@@ -63,7 +63,7 @@ La méthode la plus efficace pour se faire est donc dans un premier temps de se 
 
 Mais, encore une fois, être indexé ne suffit pas pour être facilement accessible des usagers d’internet. Il faut travailler sur l’amélioration son référencement, un travail de longue haleine et qu’il faut suivre en continue, les règles de référencement des différents moteurs de recherche évoluant constamment.
 
-<br/>
+
 ## Bon à savoir
 
 Afin d’optimiser son indexation par les robots, il existe quelques règles qu’il est bon de connaître et de suivre, notamment :
