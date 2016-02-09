@@ -48,6 +48,21 @@ Afin de tester notre hypothèse, nous avons dans un premier temps effectué une 
   <figcaption>Fig. 5 - Résultats Google : Recherche mobile</figcaption>
 </figure>
 
+On observe des biens résultats nettement différents sur les deux terminaux avec la présence de tendancebois.fr en première position pour la recherche laptop contre bois.com pour la recherche mobile.
+
+Nous avons donc comparé l'optimisation mobile de ces deux pages grâce à l'outil varvy.com/mobile/ développé par Patrick Sexton. Les résultats obtenus nous indiquent bien que le site favorisé par Google sur mobile est plus mobile-friendly que celui qui apparait en premier pour la recherche sur ordinateur :
+
+<figure align="center">
+  <img src="http://image.noelshack.com/fichiers/2016/06/1455051700-test1-1.png" alt="Test mobile-friendly - tendancebois.fr" width="100%"/>
+  <figcaption>Fig. 5 - Test mobile-friendly : tendancebois.fr</figcaption>
+</figure>
+
+<figure align="center">
+  <img src="http://image.noelshack.com/fichiers/2016/06/1455051701-test2-1.png" alt="Test mobile-friendly - bois.com" width="100%"/>
+  <figcaption>Fig. 6 - Test mobile-friendly : bois.com</figcaption>
+</figure>
+
+Nous avons réitéré cette expérience avec de nombreux mots clés, notamment pour la vente de meubles et d'appareils photos numériques et chaque fois les résultats corroboraient notre hypothèse de départ mais dans une moindre mesure. Le test s'avère donc être concluant.
 
 ## Le Responsive Design : enjeu d'avenir
 Il est donc aujourd’hui, comme présenté en introduction, indispensable pour un site de proposer un contenu adapté aux utilisateurs mobiles. Ce sujet est vaste mais nous pouvons l’évoquer simplement en présentant trois solutions différentes pour optimiser le site selon l’appareil utilisé :
@@ -58,7 +73,9 @@ Il est donc aujourd’hui, comme présenté en introduction, indispensable pour 
 
 * Les __URLs distinctes__, quant à elles, consistent à effectuer des redirections HTTP afin d’afficher un code HTML différent sur une URL différente selon l’appareil utilisé 
 
-Enfin, comme évoqué précédemment, l'optimisation de l'affichage des pages web au support utilisé ne concerne bien évidemment pas que le mobile et les tablettes comme c'est - plus ou moins - le cas de nos jours. En effet, l'apparition de nouveaux canaux de navigation web et de nouveaux objets connectés en tous genres vont probablement amener les moteurs de recherche à également favoriser le contenu le plus adapté à chaque appareil. C'est pourquoi il serait intéressant d'étudier les enjeux de l'apparition de ces nouveaux appareils et leurs impacts sur le référencement naturel dans les années à venir. Si Google, notamment, continue dans cette démarche, le responsive design va encore beaucoup évoluer et être au centre des futures problématiques de référencement.
+Enfin, comme évoqué précédemment, l'optimisation de l'affichage des pages web au support utilisé ne concerne bien évidemment pas que le mobile et les tablettes comme c'est - plus ou moins - le cas de nos jours. En effet, l'apparition de nouveaux canaux de navigation web et de nouveaux objets connectés en tous genres vont probablement amener les moteurs de recherche à également favoriser le contenu le plus adapté à chaque appareil. 
+
+C'est pourquoi il serait intéressant d'étudier les enjeux de l'apparition de ces nouveaux appareils et leurs impacts sur le référencement naturel dans les années à venir. Si Google, notamment, continue dans cette démarche, le responsive design va encore beaucoup évoluer et être au centre des futures problématiques de référencement.
 
 ### Références
 * https://developers.google.com/webmasters/
