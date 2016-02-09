@@ -22,9 +22,13 @@ Mais si le robot parcours les pages web en suivant des liens, comment faire en s
 
 ## Se rendre visible des robots indexeurs
 Il existe plusieurs manières pour se rendre visible des robots et ainsi entamer la longue route vers un référencement optimal. Selon les dispositifs mis en place, vous serez indexé plus ou moins rapidement.
-** 1. Ne rien faire et attendre**
+
+** 1. Ne rien faire et attendre **
+
 Autant le dire tout de suite, ce n’est pas la meilleure solution, et de loin. Vous risquez d’attendre très longtemps avant d’être indexé. Puisque personne ne sait que vous existez et qu’aucun lien ne redirige vers votre site, les robots ne sont pas prêts de vous trouver.
-** 2. Les liens sortants**
+
+** 2. Les liens sortants **
+
 Les liens dits « sortants » sont des liens hypertexte présents sur votre site et qui redirigent vers d’autres pages web. S’ils ne permettent pas de rendre visible la page sur laquelle ils sont présents, ils peuvent avoir un impact général positif.
 
 D’une part, ils peuvent rediriger vers d’autres pages de votre site web et ainsi les rendre visible.
@@ -33,7 +37,8 @@ D’autre part, ils peuvent être utiles pour enrichir votre contenu en vous app
 
 Enfin, les liens sortants peuvent être un moyen de vous faire connaître des développeurs des sites vers lesquels vous rediriez vos lecteurs. Si ces derniers jugent votre site pertinent, ils seront peut-être tentés à leur tour de rediriger leurs utilisateurs vers votre plateforme. C’est une forme d’échange de bons procédés en somme
 
-** 3. Les liens entrants**
+** 3. Les liens entrants **
+
 Si les liens sortants ont de nombreux aspects positifs, on a vu qu’il ne permettaient pas directement de rendre votre site visible, et donc indexable rapidement par les robots de Google ou de Bing pour ne citer qu’eux.
 
 Les liens dits « entrants », par oppositions aux « sortants » sont des liens externes présents sur des pages web dont vous n’aimes pas l’administrateur et qui redirigent les internautes vers votre site. Or comme indiqué plus tôt, les robots imitent le comportement des humains navigant sur internet, donc s’ils peuvent atterrir sur votre plateforme via ces liens, les robots le peuvent aussi.
@@ -41,10 +46,12 @@ Les liens dits « entrants », par oppositions aux « sortants » sont des l
 C’est donc un moyen de se rendre visible et d’enfin être indexé!
 
 Attention tout de même, les robots visite plus ou moins les sites selon leur pertinence. Si le site qui vous référence n’est pas jugé comme intéressant, les robots indexeurs ne le parcourent pas souvent, et le délai avant qu’ils visitent et analysent votre page via le lien entrant sera donc relativement long. À l’inverse, si le lien entrant vient d’un site renommé et bien référencé, votre site sera indexé plus rapidement.
-** 4. Proposer ses pages aux robots indexeurs des moteurs de recherches**
+** 4. Proposer ses pages aux robots indexeurs des moteurs de recherches **
+
 La dernière solution est certainement la meilleure et la plus simple si votre site est finalisé lorsque vous décidez de le mettre en ligne. En effet, certains moteurs de recherche comme Google & Bing vous permettent d’ajouter des modules à votre site internet qui le rendent alors visible de leurs robots indexeurs.
 
 ## Conclusion
+
 Si il est intéressant de mettre un site en ligne pour traiter divers sujets ou réponde à un besoin, ce dernier ne sera que très peu utile s’il n’est visible que des internautes qui disposent de votre URL. Or aujourd’hui, la majorité des accès à un site passent par les moteurs de recherches, et c’est encore plus le cas pour un site qui n’est pas encore connu.
 
 Il est donc important d’être présents dans les résultats de recherches que les internautes réalisent, et cela passe en premier lieu par l’indexation.
@@ -54,6 +61,7 @@ La méthode la plus efficace pour se faire est donc dans un premier temps de se 
 Mais, encore une fois, être indexé ne suffit pas pour être facilement accessible des usagers d’internet. Il faut travailler sur l’amélioration son référencement, un travail de longue haleine et qu’il faut suivre en continue, les règles de référencement des différents moteurs de recherche évoluant constamment.
 
 ## Bon à savoir
+
 Afin d’optimiser son indexation par les robots, il existe quelques règles qu’il est bon de connaître et de suivre, notamment :
 * Ne pas utiliser de frames
 * Éviter de mettre les IDs de session dans les URLs. Vous pouvez éventuellement le faire uniquement pour les utilisateurs connectés sur votre site ou indiquer aux robots que ces pages ne sont pas à indexer.
