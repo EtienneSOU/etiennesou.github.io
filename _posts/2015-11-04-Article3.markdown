@@ -2,19 +2,43 @@
 layout: post
 title:  "\"A partir de la recherche sur mobile, Google favorise-t-il les sites mobiles ?\""
 date:   2015-11-04 13:59:39 +0100
-categories: SEO
+categories: SEO, mobile-friendly, responsive
 author: Nicolas Darbier
 ---
-## Enoncé, clarification et interprétation de la question de départ 
+## Google adapte ses résultats de recherche à l’appareil utilisé
+Alors même que de nombreux experts du référencement naturel et de Google se préparaient d’ores et déjà à de telles évolutions, le Blog Webmaster Central de Google a finalement annoncé en 2015 la prise en compte de l’aspect “mobile-friendly” des sites référencés afin d’établir leur position dans les résultats du célèbre moteur de recherche multicolore :
 
-## Bibliographie : qu'est-ce qui a été écrit sur le sujet ? Synthèse
+> *"A partir du 21 avril, nous allons étendre notre prise en compte de la compatibilité aux mobiles en un signal de positionnement".*
 
-## Problématique : revenir sur la question de départ en la formulant précisément, en précisant ses enjeux etc..
+Bien que longtemps pressentie, cette mesure adoptée par le géant américain revêt une importance primordiale pour tous les acteurs du référencement dans la mesure où elle a un impact considérable sur les recherches effectuées depuis mobile, soit une part grandissante des recherches totales. En effet, le mobile étant un canal porteur et encore actuellement en pleine expansion, toute modification des algorithmes de référencement devient d’importance capitale et se doit d’être prise en compte dans les décisions stratégiques des acteurs du web.
 
-## Hypothèse testées
+Aussi, pour faciliter cette évolution des mentalités et des enjeux autour du mobile, Google - en plus d’autres modifications apportées à “Webmaster Tools” comme le “Mobile Usability Report” - a par conséquent mis en place un outil : un test mobile-friendly permettant de détecter les entraves éventuelles à une bonne expérience mobile pour un site web ainsi qu’un guide regroupant les bonnes pratiques à adopter pour des pages “responsive” adaptées aux différents appareils de navigation.
 
-## Protocole de test mis en place
+![Exemple de test mobile-friendly pour notre blog seo-positif.fr - 1](/assets/article3_image1.jpg)
+
+![Exemple de test mobile-friendly pour notre blog seo-positif.fr - 2](/assets/article3_image2.jpg)
+
+La première étape de cette prise en considération de l’importance du mobile par Google consistait à faire émerger du contenu provenant d’applications dans les résultats de recherche et à rendre plus simple pour les utilisateurs de trouver des sites adaptés à un affichage mobile dans le but de s’adapter aux nouveaux modes de consommation.
+
+La mesure suivante concerne plus particulièrement notre problématique dans la mesure où l’algorithme a été significativement modifié afin d’améliorer l’indexation du contenant provenant d’applications et de faire apparaître des résultats optimisés pour l’appareil avec lequel a été effectué la recherche. C’est pourquoi on peut en déduire que Google favorise bien les sites mobiles à partir de la recherche sur mobile. De plus, cette tendance ne va qu’en s’amplifiant avec l’apparition de plus en plus de canaux de recherche, notamment avec l’émergence et l’explosion attendue des objets connectés et autres “wearables”.
+
+## Hypothèses et démarche adoptée
+Nous avons donc choisi de considérer l’hypothèse selon laquelle Google va afficher des résultats optimisés pour mobile de manière prioritaire si la recherche est effectuée via ce canal et ce même si le référencement de ces pages peut être moins bon lors d’une recherche via ordinateur par exemple.
+
+Ainsi, notre première intuition était d’effectuer une comparaison entre sites de concurrents sur certains mots-clés. En effet, il faudrait pour cela choisir des résultats proches au niveau PageRank sur Google tout en prenant soin de choisir un site mobile-friendly et l’autre non adapté pour le mobile (les tests pouvant être effectués grâce aux outils précédemment évoqués). L’apparition d’un site mobile - pourtant moins bien référencé lors d’une recherche sur ordinateur - en meilleure position qu’un site non responsive pourrait de cette manière prouver notre hypothèse.
+
+Une autre démarche consiste à créer deux sites au contenu similaire, l’un adapté au mobile et l’autre non, et de comparer leur apparition dans les résultats et leur PageRank sur des recherches identiques, via ordinateur dans un premier temps et via mobile par la suite pour pouvoir en tirer les conclusions attendues. Malheureusement, en raison de difficultés rencontrées avec l’hébergement de notre blog, nous n’avons par la suite pas eu le temps de mettre en place ce protocole de test. 
 
 ## Résultats obtenus
+Il est donc aujourd’hui, comme présenté en introduction, indispensable pour un site de proposer un contenu adapté aux utilisateurs mobiles. Ce sujet est vaste mais nous pouvons l’évoquer simplement en présentant trois solutions différentes pour optimiser le site selon l’appareil utilisé :
+* le responsive design, solution recommandée par Google notamment, il permet d’afficher le même code HTML à la même URL tout en modulant l’affichage à l’appareil utilisé
+* le dynamic serving, génère un code HTML différent en utilisant la même URL grâce aux informations dont dispose le serveur au sujet du navigateur du client
+* les URLs distinctes, quant à elles, consistent à effectuer des redirections HTTP afin d’afficher un code HTML différent sur une URL différente selon l’appareil utilisé 
 
 ## Conclusion et pistes de recherches additionnelles
+
+### Références
+* https://varvy.com/mobile/
+* https://moz.com/learn/seo/mobile-optimization
+* https://developers.google.com/webmasters/mobile-sites/mobile-seo/?hl=fr
+
