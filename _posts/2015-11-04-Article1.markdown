@@ -25,7 +25,7 @@ C’est donc en 2005 que Google a introduit la balise nofollow dans le but de lu
 </p>
 # Comment est écrite une balise nofollow ?
 
-`<a href='http://www.exemple.com/' rel='nofollow'>lien de la page</a>`
+<a href='http://www.exemple.com/' rel='nofollow'>lien de la page</a>
 
 ## Déclaration de google à propos de la balise nofollow
 <p>
