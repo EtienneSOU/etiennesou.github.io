@@ -48,7 +48,7 @@ Afin de tester notre hypothèse, nous avons dans un premier temps effectué une 
   <figcaption>Fig. 5 - Résultats Google : Recherche mobile</figcaption>
 </figure>
 
-On observe des biens résultats nettement différents sur les deux terminaux avec la présence de tendancebois.fr en première position pour la recherche laptop contre bois.com pour la recherche mobile.
+On observe bien des résultats nettement différents sur les deux terminaux avec la présence de tendancebois.fr en première position pour la recherche laptop contre bois.com pour la recherche mobile.
 
 Nous avons donc comparé l'optimisation mobile de ces deux pages grâce à l'outil varvy.com/mobile/ développé par Patrick Sexton. Les résultats obtenus nous indiquent bien que le site favorisé par Google sur mobile est plus mobile-friendly que celui qui apparait en premier pour la recherche sur ordinateur :
 
