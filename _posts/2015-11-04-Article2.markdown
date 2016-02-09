@@ -41,7 +41,7 @@ D’autre part, ils peuvent être utiles pour enrichir votre contenu en vous app
 
 Enfin, les liens sortants peuvent être un moyen de vous faire connaître des développeurs des sites vers lesquels vous rediriez vos lecteurs. Si ces derniers jugent votre site pertinent, ils seront peut-être tentés à leur tour de rediriger leurs utilisateurs vers votre plateforme. C’est une forme d’échange de bons procédés en somme
 
-<strong> 3. Les liens entrants <strong>
+<strong> 3. Les liens entrants </strong>
 
 Si les liens sortants ont de nombreux aspects positifs, on a vu qu’il ne permettaient pas directement de rendre votre site visible, et donc indexable rapidement par les robots de Google ou de Bing pour ne citer qu’eux.
 
@@ -54,6 +54,7 @@ Attention tout de même, les robots visite plus ou moins les sites selon leur pe
 
 La dernière solution est certainement la meilleure et la plus simple si votre site est finalisé lorsque vous décidez de le mettre en ligne. En effet, certains moteurs de recherche comme Google & Bing vous permettent d’ajouter des modules à votre site internet qui le rendent alors visible de leurs robots indexeurs.
 
+<img src="https://farm6.staticflickr.com/5512/14253849274_62bcbdc283_o_d.png" width="100%">
 
 ## Conclusion
 
@@ -65,6 +66,7 @@ La méthode la plus efficace pour se faire est donc dans un premier temps de se 
 
 Mais, encore une fois, être indexé ne suffit pas pour être facilement accessible des usagers d’internet. Il faut travailler sur l’amélioration son référencement, un travail de longue haleine et qu’il faut suivre en continue, les règles de référencement des différents moteurs de recherche évoluant constamment.
 
+<img src="https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?crop=entropy&dpr=2&fit=crop&fm=jpg&h=975&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1700" width="100%">
 
 ## Bon à savoir
 
