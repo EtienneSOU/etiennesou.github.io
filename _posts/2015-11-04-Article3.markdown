@@ -77,6 +77,13 @@ Enfin, comme évoqué précédemment, l'optimisation de l'affichage des pages we
 
 C'est pourquoi il serait intéressant d'étudier les enjeux de l'apparition de ces nouveaux appareils et leurs impacts sur le référencement naturel dans les années à venir. Si Google, notamment, continue dans cette démarche, le responsive design va encore beaucoup évoluer et être au centre des futures problématiques de référencement.
 
+<figure align="center">
+  <img src="http://dootrix.com/wp-content/uploads/2014/04/wearables.jpg" alt="Wearables" width="100%"/>
+  <figcaption>Fig. 7 - Wearables et autres objets connectés : quel enjeu pour le e-marketing de demain ?</figcaption>
+</figure>
+
+En outre, ces nouvelles tendances de consommation digitale, avec entre autres l'expansion du marché des wearables, participent au développement de la tendance du marketing hyperlocal. Un autre sujet d'analyse pertinent autour de ces problématiques serait donc d'évaluer les évolutions du marketing digital causées par ces nouveaux appareils.
+
 ### Références
 * https://developers.google.com/webmasters/
 * https://moz.com/learn/seo/mobile-optimization/
