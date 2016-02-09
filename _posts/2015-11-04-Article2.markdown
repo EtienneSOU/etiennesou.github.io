@@ -15,6 +15,7 @@ Pour se faire, et afin d’obtenir des résultats pertinents, ils visitent ces s
 * il analyse le contenu de la page web sur laquelle il se trouve
 * il identifie les liens hypertexte présents sur la page à l’aide des balise « src » et « href »
 * il passe alors à l’analyse des pages vers lesquels renvoient les liens présents et ainsi de suite
+
 Mais si le robot parcours les pages web en suivant des liens, comment faire en sorte qu’il arrive sur votre site web en premier lieu?
 
 ##Se rendre visible des robots indexeurs
