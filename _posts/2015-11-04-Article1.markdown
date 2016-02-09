@@ -8,11 +8,11 @@ author: Etienne Soufflet
 ## Les moteurs de recherches Bing et Google
 Commençons tout d’abord par une petite explication de Google et Bing et de leurs rôles sur le Web. Google et Microsoft ont développé de leurs côtés deux moteurs de recherches qui fonctionnent sur des principes similaires, le « page ranking ». Le but du « page ranking » est d’évaluer la popularité d’une page web, plus la note de « page ranking » est élevée plus cette page aura de chance d’être dans les premiers résultats des recherches effectués sur ces moteurs de recherches. 
 
-La question est maintenant, comment Google et Bing évaluent-ils le « page ranking » ?
+# La question est maintenant, comment Google et Bing évaluent-ils le « page ranking » ?
 
 Selon ces deux géants d’internet, une page web est dites populaire quand un nombre important de liens pointent vers celle-ci. De plus, cette algorithme de référencement prend en compte la popularité des pages qui pointent vers notre page cible.
 
-Comment Google et Bing calcule le nombre de liens vers lesquels une page est pointée ?
+# Comment Google et Bing calcule le nombre de liens vers lesquels une page est pointée ?
 
 Pour réaliser cette tâche, les deux moteurs de recherches utilisent des robots indéxeurs qui parcourent l’intégralité d’une page pour évaluer celle-ci et ainsi « compter » le nombre de lien vers laquelle elle pointe. 
 
@@ -23,7 +23,7 @@ Ce principe de page ranking a été amélioré avec les années et prend mainten
 Avec l’arrivée du web 2.0, les internautes peuvent maintenant réagir sur des sites internets, des réseaux sociaux par le biais de commentaires, de messages ou autres. Il a donc fallu développer une solution permettant de gérer ce contenu dynamique. 
 C’est donc en 2005 que Google a introduit la balise nofollow dans le but de lutter contre les spams. 
 
-Comment est écrite une balise nofollow ?
+# Comment est écrite une balise nofollow ?
 
 <a href='http://www.exemple.com/' rel='nofollow'>lien de la page</a>
 
