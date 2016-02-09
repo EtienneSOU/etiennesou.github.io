@@ -10,6 +10,7 @@ author: Félix Senepin
 
 <strong>Or ces derniers, comme Google & Bing, utilisent des robots indexeurs, logiciels qui parcours pages et sites internet afin de les analyser et de juger de leur pertinence. Mais comment ce processus d’indexation se déroule-t-il?</strong>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Android_robot_skateboarding.svg" width="100%">
 
 ## Fonctionnement des robots indexeurs
 Les robots indexeurs, aussi appelés robots d’indexations ou web crawlers dans la langue de Shakespeare, permettent aux moteurs de recherche d’indexer l’ensemble des sites et pages web présents sur internet. 
