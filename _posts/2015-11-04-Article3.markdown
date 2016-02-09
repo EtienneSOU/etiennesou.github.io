@@ -79,7 +79,7 @@ C'est pourquoi il serait intéressant d'étudier les enjeux de l'apparition de c
 
 <figure align="center">
   <img src="http://dootrix.com/wp-content/uploads/2014/04/wearables.jpg" alt="Wearables" width="100%"/>
-  <figcaption>Fig. 7 - Wearables et autres objets connectés : quel enjeu pour le e-marketing de demain ?</figcaption>
+  <figcaption>Fig. 7 - Wearables et autres objets connectés : quels enjeux pour le e-marketing de demain ?</figcaption>
 </figure>
 
 En outre, ces nouvelles tendances de consommation digitale, avec entre autres l'expansion du marché des wearables, participent au développement de la tendance du marketing hyperlocal. Un autre sujet d'analyse pertinent autour de ces problématiques serait donc d'évaluer les évolutions du marketing digital causées par ces nouveaux appareils.
