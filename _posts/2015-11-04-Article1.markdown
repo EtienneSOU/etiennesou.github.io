@@ -77,5 +77,5 @@ Quant à Bing, nous avons eu des problèmes avec le site et le référencement d
 Je pense qu’il serait intéressant de refaire ces tests avec des sites existants depuis un certain moment et ayant une popularité déjà définie pour pour approfondir réellement l’interprétation de ces recherches.
 
 ## Sources
-
+[lien vers google] (http://www.google.fr "lien vers google (balise title)")
 
