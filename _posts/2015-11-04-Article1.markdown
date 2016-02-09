@@ -30,11 +30,10 @@ C’est donc en 2005 que Google a introduit la balise nofollow dans le but de lu
 
 ## Déclaration de google à propos de la balise nofollow
 
-> « Comment les liens non suivis sont-ils gérés par Google ?
-En règle générale, Google ne suit pas ces liens. En d'autres termes, nous ne transférons ni le classement PageRank, ni le texte  d'ancrage à travers ces liens. L'utilisation de l'attribut nofollow nous conduit essentiellement à supprimer les liens cibles de notre carte générale du Web. Toutefois, les pages cibles peuvent continuer à s'afficher dans notre index si d'autres sites renvoient vers elles sans utiliser l'attribut nofollow, ou si les URL nous sont envoyées dans un sitemap. Sachez également que les autres moteurs de recherche peuvent gérer l'attribut nofollow de manière légèrement différente. »
+> *« Comment les liens non suivis sont-ils gérés par Google ?
+En règle générale, Google ne suit pas ces liens. En d'autres termes, nous ne transférons ni le classement PageRank, ni le texte  d'ancrage à travers ces liens. L'utilisation de l'attribut nofollow nous conduit essentiellement à supprimer les liens cibles de notre carte générale du Web. Toutefois, les pages cibles peuvent continuer à s'afficher dans notre index si d'autres sites renvoient vers elles sans utiliser l'attribut nofollow, ou si les URL nous sont envoyées dans un sitemap. Sachez également que les autres moteurs de recherche peuvent gérer l'attribut nofollow de manière légèrement différente. »*
 
-
-Lorsque on étudie cette déclaration de google qui commence par « En règle générale », il parait naturel de se poser la question sur l’interprétation réelle de google des liens nofollow.
+Lorsqu'on étudie cette déclaration de google qui commence par « En règle générale », il parait naturel de se poser la question sur l’interprétation réelle de google des liens nofollow.
 
 ## Tests mis en place
 
