@@ -20,7 +20,7 @@ Aussi, pour faciliter cette évolution des mentalités et des enjeux autour du m
 </figure>
 
 <figure>
-  <img src="http://image.noelshack.com/fichiers/2016/06/1455045926-article3-image2.png" alt="Exemple de test mobile-friendly pour notre    blog seo-positif.fr - 2" width="100%" style="height: 350px;"/>
+  <img src="http://image.noelshack.com/fichiers/2016/06/1455045926-article3-image2.png" alt="Exemple de test mobile-friendly pour notre    blog seo-positif.fr - 2" width="100%"/>
   <figcaption>Fig. 2 - Exemple d'outil de test mobile-friendly n°2</figcaption>
 </figure>
 
