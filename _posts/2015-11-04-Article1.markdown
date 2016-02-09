@@ -5,18 +5,76 @@ date:   2015-11-04 13:59:39 +0100
 categories: SEO
 author: Etienne Soufflet
 ---
-## Enoncé, clarification et interprétation de la question de départ 
+## Les moteurs de recherches Bing et Google
+Commençons tout d’abord par une petite explication de Google et Bing et de leurs rôles sur le Web. Google et Microsoft ont développé de leurs côtés deux moteurs de recherches qui fonctionnent sur des principes similaires, le « page ranking ». Le but du « page ranking » est d’évaluer la popularité d’une page web, plus la note de « page ranking » est élevée plus cette page aura de chance d’être dans les premiers résultats des recherches effectués sur ces moteurs de recherches. 
 
-## Bibliographie : qu'est-ce qui a été écrit sur le sujet ? Synthèse
+La question est maintenant, comment Google et Bing évaluent-ils le « page ranking » ?
 
-## Problématique : revenir sur la question de départ en la formulant précisément, en précisant ses enjeux etc..
+Selon ces deux géants d’internet, une page web est dites populaire quand un nombre important de liens pointent vers celle-ci. De plus, cette algorithme de référencement prend en compte la popularité des pages qui pointent vers notre page cible.
 
-## Hypothèse testées
+Comment Google et Bing calcule le nombre de liens vers lesquels une page est pointée ?
 
-## Protocole de test mis en place
+Pour réaliser cette tâche, les deux moteurs de recherches utilisent des robots indéxeurs qui parcourent l’intégralité d’une page pour évaluer celle-ci et ainsi « compter » le nombre de lien vers laquelle elle pointe. 
 
-## Résultats obtenus
+Ce principe de page ranking a été amélioré avec les années et prend maintenant en compte de nombreux facteurs mais le principe fondamentale reste celui présenté.
 
-## Conclusion et pistes de recherches additionnelles
+## La balise nofollow, son histoire et son but
+
+Avec l’arrivée du web 2.0, les internautes peuvent maintenant réagir sur des sites internets, des réseaux sociaux par le biais de commentaires, de messages ou autres. Il a donc fallu développer une solution permettant de gérer ce contenu dynamique. 
+C’est donc en 2005 que Google a introduit la balise nofollow dans le but de lutter contre les spams. 
+
+Comment est écrite une balise nofollow ?
+
+<a href='http://www.exemple.com/' rel='nofollow'>lien de la page</a>
+
+## Déclaration de google à propos de la balise nofollow
+
+« Comment les liens non suivis sont-ils gérés par Google ?
+
+En règle générale, Google ne suit pas ces liens. En d'autres termes, nous ne transférons ni le classement PageRank, ni le texte d'ancrage à travers ces liens. L'utilisation de l'attribut nofollow nous conduit essentiellement à supprimer les liens cibles de notre carte générale du Web. Toutefois, les pages cibles peuvent continuer à s'afficher dans notre index si d'autres sites renvoient vers elles sans utiliser l'attribut nofollow, ou si les URL nous sont envoyées dans un sitemap. Sachez également que les autres moteurs de recherche peuvent gérer l'attribut nofollow de manière légèrement différente. »
+
+source: https://support.google.com/webmasters/answer/96569?hl=fr
+
+Lorsque on étudie cette déclaration de google qui commence par « En règle générale », il parait naturel de se poser la question sur l’interprétation réelle de google des liens nofollow.
+
+## Tests mis en place
+
+Pour réaliser cette étude nous avons voulu tester de deux manières différentes. 
+
+La première étant de poster un lien de notre site web sur un site d’un ami en utilisant la balise nofollow et d’étudier l’évolution de notre page ranking.
+
+ImageBrice
+
+La deuxième démarche est de poster le lien de notre site web sur le site www.reddit.com qui utilise une balise nofollow pour les liens ayant peu de popularité et ainsi étudier l’évolution de notre page ranking et l’évolution de notre traffic.
+
+ImageReddit
+
+## Résultats des tests
+
+Premier test: Après avoir mis en place le lien nofollow sur le site web de notre ami, nous avons observé le nombre de pages pointant notre site web selon google. Nous avions que les pages de notre site web (La page d’accueil, les articles et une pages « A propos »)
+
+ImageLinks
+
+Ensuite nous avons regardé notre page ranking qui n’a malheureusement pas évolué.
+Quant à Bing, suite à un problème avec notre site web nous ne sommes plus référencé.
+
+Résultat du deuxième test: Nous avons regardé avec Google Analytics l’affluence de notre site web une fois celui-ci posté sur le site reddit.
+
+ImageGoogleAnalytics
+
+On peut voir que le traffic du site a légèrement augmenté puis s’est très vite estompé une fois notre redirection reddit « downvoté »
+De plus, comme pour le test précédent notre « page ranking » n’a pas évolué.
+
+## Que pouvons nous donc conclure sur l’interprétation du nofollow selon Google et Bing ?
+
+On peut voir que Google semble respecter ses dires quant à leur traitement de cette balise, les liens n’ont pas été suivis et le « page ranking » de notre page n’a pas évolué. En revanche, en réalisant le deuxième test nous avons pu observer que notre traffic a légèrement augmenté une fois notre lien posté sur un site populaire. En revanche cela n’a pas fait évoluer notre site dans le référencement mais joue certainement lorsque un nombre de vues est généré sur une plus grande échelle.
+
+Quant à Bing, nous avons eu des problèmes avec le site et le référencement de celui-ci auprès de ce moteur de recherche. Néanmoins, d’après nos recherches, Bing interprète de la même manière les balise « nofollow » que Google. 
+
+## Pistes d’approfondissements 
+
+Je pense qu’il serait intéressant de refaire ces tests avec des sites existants depuis un certain moment et ayant une popularité déjà définie pour pour approfondir réellement l’interprétation de ces recherches.
+
+## Sources
 
 
