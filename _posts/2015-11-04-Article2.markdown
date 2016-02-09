@@ -6,9 +6,9 @@ categories: SEO
 author: Félix Senepin
 ---
 
-**Lorsque l’on met un site web en ligne ou que l’on crée de nouvelles pages sur un site existant, il est important de se faire référencer afin d’être visibles de internautes via les résultats des moteurs de recherche. 
+<strong>Lorsque l’on met un site web en ligne ou que l’on crée de nouvelles pages sur un site existant, il est important de se faire référencer afin d’être visibles de internautes via les résultats des moteurs de recherche. 
 
-Or ces derniers, comme Google & Bing, utilisent des robots indexeurs, logiciels qui parcours pages et sites internet afin de les analyser et de juger de leur pertinence. Mais comment ce processus d’indexation se déroule-t-il?**
+Or ces derniers, comme Google & Bing, utilisent des robots indexeurs, logiciels qui parcours pages et sites internet afin de les analyser et de juger de leur pertinence. Mais comment ce processus d’indexation se déroule-t-il?</strong>
 
 ## Fonctionnement des robots indexeurs
 Les robots indexeurs, aussi appelés robots d’indexations ou web crawlers dans la langue de Shakespeare, permettent aux moteurs de recherche d’indexer l’ensemble des sites et pages web présents sur internet. 
@@ -23,11 +23,11 @@ Mais si le robot parcours les pages web en suivant des liens, comment faire en s
 ## Se rendre visible des robots indexeurs
 Il existe plusieurs manières pour se rendre visible des robots et ainsi entamer la longue route vers un référencement optimal. Selon les dispositifs mis en place, vous serez indexé plus ou moins rapidement.
 
-** 1. Ne rien faire et attendre **
+<strong> 1. Ne rien faire et attendre </strong>
 
 Autant le dire tout de suite, ce n’est pas la meilleure solution, et de loin. Vous risquez d’attendre très longtemps avant d’être indexé. Puisque personne ne sait que vous existez et qu’aucun lien ne redirige vers votre site, les robots ne sont pas prêts de vous trouver.
 
-** 2. Les liens sortants **
+<strong> 2. Les liens sortants </strong>
 
 Les liens dits « sortants » sont des liens hypertexte présents sur votre site et qui redirigent vers d’autres pages web. S’ils ne permettent pas de rendre visible la page sur laquelle ils sont présents, ils peuvent avoir un impact général positif.
 
@@ -37,7 +37,7 @@ D’autre part, ils peuvent être utiles pour enrichir votre contenu en vous app
 
 Enfin, les liens sortants peuvent être un moyen de vous faire connaître des développeurs des sites vers lesquels vous rediriez vos lecteurs. Si ces derniers jugent votre site pertinent, ils seront peut-être tentés à leur tour de rediriger leurs utilisateurs vers votre plateforme. C’est une forme d’échange de bons procédés en somme
 
-** 3. Les liens entrants **
+<strong> 3. Les liens entrants <strong>
 
 Si les liens sortants ont de nombreux aspects positifs, on a vu qu’il ne permettaient pas directement de rendre votre site visible, et donc indexable rapidement par les robots de Google ou de Bing pour ne citer qu’eux.
 
@@ -46,7 +46,7 @@ Les liens dits « entrants », par oppositions aux « sortants » sont des l
 C’est donc un moyen de se rendre visible et d’enfin être indexé!
 
 Attention tout de même, les robots visite plus ou moins les sites selon leur pertinence. Si le site qui vous référence n’est pas jugé comme intéressant, les robots indexeurs ne le parcourent pas souvent, et le délai avant qu’ils visitent et analysent votre page via le lien entrant sera donc relativement long. À l’inverse, si le lien entrant vient d’un site renommé et bien référencé, votre site sera indexé plus rapidement.
-** 4. Proposer ses pages aux robots indexeurs des moteurs de recherches **
+<strong> 4. Proposer ses pages aux robots indexeurs des moteurs de recherches </strong>
 
 La dernière solution est certainement la meilleure et la plus simple si votre site est finalisé lorsque vous décidez de le mettre en ligne. En effet, certains moteurs de recherche comme Google & Bing vous permettent d’ajouter des modules à votre site internet qui le rendent alors visible de leurs robots indexeurs.
 
