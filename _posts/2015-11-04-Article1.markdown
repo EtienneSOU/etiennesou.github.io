@@ -2,7 +2,7 @@
 layout: post
 title:  "\"Comparer Google et Bing dans l'interprétation du nofollow\""
 date:   2015-11-04 13:59:39 +0100
-categories: SEO
+categories: SEO, nofollow
 author: Etienne Soufflet
 ---
 ## Les moteurs de recherches Bing et Google
