@@ -7,7 +7,7 @@ author: Etienne Soufflet
 ---
 ## Les moteurs de recherches Bing et Google
 
--> Commençons tout d’abord par une petite explication de Google et Bing et de leurs rôles sur le Web. Google et Microsoft ont développé de leurs côtés deux moteurs de recherches qui fonctionnent sur des principes similaires, le « page ranking ». Le but du « page ranking » est d’évaluer la popularité d’une page web, plus la note de « page ranking » est élevée plus cette page aura de chance d’être dans les premiers résultats des recherches effectués sur ces moteurs de recherches. <-
+<center>Commençons tout d’abord par une petite explication de Google et Bing et de leurs rôles sur le Web. Google et Microsoft ont développé de leurs côtés deux moteurs de recherches qui fonctionnent sur des principes similaires, le « page ranking ». Le but du « page ranking » est d’évaluer la popularité d’une page web, plus la note de « page ranking » est élevée plus cette page aura de chance d’être dans les premiers résultats des recherches effectués sur ces moteurs de recherches. </center>
 
 # La question est maintenant, comment Google et Bing évaluent-ils le « page ranking » ?
 
