@@ -82,3 +82,8 @@ Afin d’optimiser son indexation par les robots, il existe quelques règles qu�
 
 Ces règles sont sujettes à des évolutions, les formulaires et le contenu javascript n’étaient pas parcourus par les robots il y a peu. Comme partout, des changements s’opèrent, et ce de manière encore plus rapide sur internet que dans la vie réelle.
 
+### Références
+* http://metamend.com/archive/education/search-engine-bots/
+* https://kb.iu.edu/d/aeub
+* http://www.robotstxt.org/robotstxt.html
+* http://www.dlib.org/dlib/february06/smith/02smith.html
