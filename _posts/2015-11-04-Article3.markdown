@@ -14,9 +14,9 @@ Bien que longtemps pressentie, cette mesure adoptée par le géant américain re
 
 Aussi, pour faciliter cette évolution des mentalités et des enjeux autour du mobile, Google - en plus d’autres modifications apportées à “Webmaster Tools” comme le “Mobile Usability Report” - a par conséquent mis en place un outil : un test mobile-friendly permettant de détecter les entraves éventuelles à une bonne expérience mobile pour un site web ainsi qu’un guide regroupant les bonnes pratiques à adopter pour des pages “responsive” adaptées aux différents appareils de navigation.
 
-![Exemple de test mobile-friendly pour notre blog seo-positif.fr - 1](http://image.noelshack.com/fichiers/2016/06/1455045926-article3-image1.png)
+<img src="http://image.noelshack.com/fichiers/2016/06/1455045926-article3-image1.png" alt="Exemple de test mobile-friendly pour notre blog seo-positif.fr - 1" align="middle" style="height: 200px;"/>
 
-<img src="http://image.noelshack.com/fichiers/2016/06/1455045926-article3-image2.png" alt="Exemple de test mobile-friendly pour notre blog seo-positif.fr - 2" style="height: 10px;"/>
+<img src="http://image.noelshack.com/fichiers/2016/06/1455045926-article3-image2.png" alt="Exemple de test mobile-friendly pour notre blog seo-positif.fr - 2" align="middle" style="height: 200px;"/>
 
 La première étape de cette prise en considération de l’importance du mobile par Google consistait à faire émerger du contenu provenant d’applications dans les résultats de recherche et à rendre plus simple pour les utilisateurs de trouver des sites adaptés à un affichage mobile dans le but de s’adapter aux nouveaux modes de consommation.
 
