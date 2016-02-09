@@ -47,7 +47,7 @@ La première étant de poster un lien de notre site web sur un site d’un ami e
 
 La deuxième démarche est de poster le lien de notre site web sur le site www.reddit.com qui utilise une balise nofollow pour les liens ayant peu de popularité et ainsi étudier l’évolution de notre page ranking et l’évolution de notre traffic.
 
-<div style="text-align:center"><img alt="test2-nofollow" src ="https://hubic.com/home/browser/thumb/?uri=default/Images/reddit.png&crop=no&size=1440x744" /></div>
+<div style="text-align:center"><img alt="test2-nofollow" src ="http://image.noelshack.com/fichiers/2016/06/1455057983-reddit.png" /></div>
 
 
 ## Résultats des tests
@@ -55,7 +55,7 @@ La deuxième démarche est de poster le lien de notre site web sur le site www.r
 Premier test: Après avoir mis en place le lien nofollow sur le site web de notre ami, nous avons observé le nombre de pages pointant notre site web selon google. Nous avions que les pages de notre site web (La page d’accueil, les articles et une pages « A propos »)
 
 
-<div style="text-align:center"><img alt="resultat1-nofollow" src ="https://hubic.com/home/browser/thumb/?uri=default/Images/links.png&crop=no&size=1440x744" /></div>
+<div style="text-align:center"><img alt="resultat1-nofollow" src ="http://image.noelshack.com/fichiers/2016/06/1455058042-links.png" /></div>
 
 
 Ensuite nous avons regardé notre page ranking qui n’a malheureusement pas évolué.
@@ -64,7 +64,7 @@ Quant à Bing, suite à un problème avec notre site web nous ne sommes plus ré
 Résultat du deuxième test: Nous avons regardé avec Google Analytics l’affluence de notre site web une fois celui-ci posté sur le site reddit.
 
 
-<div style="text-align:center"><img alt="resultat2-nofollow" src ="https://hubic.com/home/browser/thumb/?uri=default/Images/traffic.png&crop=no&size=1440x744" /></div>
+<div style="text-align:center"><img alt="resultat2-nofollow" src ="http://image.noelshack.com/fichiers/2016/06/1455058102-traffic.png" /></div>
 
 
 On peut voir que le traffic du site a légèrement augmenté puis s’est très vite estompé une fois notre redirection reddit « downvoté »
