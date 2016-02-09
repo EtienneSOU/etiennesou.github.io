@@ -42,7 +42,7 @@ Pour réaliser cette étude nous avons voulu tester de deux manières différent
 
 La première étant de poster un lien de notre site web sur un site d’un ami en utilisant la balise nofollow et d’étudier l’évolution de notre page ranking.
 
-<div style="text-align:center"><img alt="test1-nofollow" src ="https://hubic.com/home/browser/thumb/?uri=default/Images/brice.png&crop=no&size=1440x744" /></div>
+<div style="text-align:center"><img alt="test1-nofollow" src ="http://image.noelshack.com/fichiers/2016/06/1455057879-brice.png" /></div>
 
 
 La deuxième démarche est de poster le lien de notre site web sur le site www.reddit.com qui utilise une balise nofollow pour les liens ayant peu de popularité et ainsi étudier l’évolution de notre page ranking et l’évolution de notre traffic.
