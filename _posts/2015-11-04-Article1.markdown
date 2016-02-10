@@ -52,7 +52,7 @@ La deuxième démarche est de poster le lien de notre site web sur le site www.r
 
 ## Résultats des tests
 
-Premier test: Après avoir mis en place le lien nofollow sur le site web de notre ami, nous avons observé le nombre de pages pointant notre site web selon google. Nous avions que les pages de notre site web (La page d’accueil, les articles et une pages « A propos »)
+Premier test: Après avoir mis en place le lien nofollow sur le site web de notre ami, nous avons observé le nombre de pages pointant notre site web selon google. Nous avions que les pages de notre site web (La page d’accueil, les articles et une page « A propos »)
 
 
 <div style="text-align:center"><img alt="resultat1-nofollow" src ="http://image.noelshack.com/fichiers/2016/06/1455058042-links.png" /></div>
