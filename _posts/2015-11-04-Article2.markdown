@@ -88,3 +88,4 @@ Ces règles sont sujettes à des évolutions, les formulaires et le contenu java
 * http://www.robotstxt.org/robotstxt.html
 * http://www.dlib.org/dlib/february06/smith/02smith.html
 * http://www.nicemedia.fr/blog/articles-referencement/robots-txt-un-outil-puissant-et-meconnu-des-seo
+* http://www.journaldunet.com/solutions/0605/060519-referencement-explications-robots.shtml
