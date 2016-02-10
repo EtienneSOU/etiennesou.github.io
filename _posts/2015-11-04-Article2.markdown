@@ -5,7 +5,7 @@ date:   2015-11-04 13:59:39 +0100
 categories: SEO
 author: Félix Senepin
 ---
-
+<div align="justified">
 <strong>Lorsque l’on met un site web en ligne ou que l’on crée de nouvelles pages sur un site existant, il est important de se faire référencer afin d’être visibles de internautes via les résultats des moteurs de recherche.</strong> 
 
 <strong>Or ces derniers, comme Google & Bing, utilisent des robots indexeurs, logiciels qui parcours pages et sites internet afin de les analyser et de juger de leur pertinence. Mais comment ce processus d’indexation se déroule-t-il?</strong> <br/><br/>
@@ -89,3 +89,5 @@ Ces règles sont sujettes à des évolutions, les formulaires et le contenu java
 * http://www.dlib.org/dlib/february06/smith/02smith.html
 * http://www.nicemedia.fr/blog/articles-referencement/robots-txt-un-outil-puissant-et-meconnu-des-seo
 * http://www.journaldunet.com/solutions/0605/060519-referencement-explications-robots.shtml
+
+</div>
