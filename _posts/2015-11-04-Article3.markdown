@@ -2,7 +2,8 @@
 layout: post
 title:  "\"A partir de la recherche sur mobile, Google favorise-t-il les sites mobiles ?\""
 date:   2015-11-04 13:59:39 +0100
-categories: SEO, mobile-friendly, responsive
+categories: SEO
+tags: SEO, mobile-friendly, responsive
 author: Nicolas Darbier
 ---
 ## Google adapte ses résultats de recherche à l’appareil utilisé
